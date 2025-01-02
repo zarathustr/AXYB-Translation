@@ -61,8 +61,8 @@ This repo is released under the [MIT License](LICENSE).
 
 If you use this work in your research, please cite our papers:
 
-1. **Wu, J.**, et al. (2024)
- On Pure-Translation Hand-Eye Robot-World Calibration, ***Submitted to IEEE/ASME Transactions on Mechatronics***.
+1. **Wu, J.**, He, W., et al. (2024)
+ On Pure-Translation Hand-Eye Robot-World Calibration, ***Submitted to IEEE Transactions on Industrial Electronics***.
  
 2. **Wu, J.**, et al. (2022)
   Quadratic Pose Estimation Problems: Globally Optimal Solutions, 
